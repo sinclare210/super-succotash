@@ -1,0 +1,115 @@
+img{
+
+    width: 50%;
+    height: 300px;
+   padding-left: 10px;
+}
+aside{
+    float: left;
+}
+.ll{
+    float: right
+}
+.container{
+    width: 650px;
+    border: 0 auto;
+}
+.menu{
+padding: 10px;
+    background-color: #C7E8CA;
+    margin-bottom: 10px;
+}
+
+ a{
+    text-decoration: none;
+     color: #ffffff;
+    
+}
+
+
+a:hover{
+    color: red;
+}
+.mm {
+  color: #9A208C  
+}
+.mm{
+    padding: 15px;
+     background-color: #002B5B;
+    margin-bottom: 10px;
+}
+body{
+    background-color: #E3F6FF;
+    width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*styling for contact*/
+
+.contact{
+    text-align: center;
+    width: 100%;
+    color:#0E8388;
+       
+    
+}
+
+.contact .form input{
+    width: 80%;
+    float: right;
+}
+.form input {
+    text-align: left;
+/*    float: right;*/
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #94AF9F;
+    color: black;
+    display: block;
+}
+aside{
+    display: block;
+    color:#0E8388
+}
+.form input value{
+    text-align: center
+}
+.form textarea{
+    width: 80%;
+    float: right;
+    margin-bottom: 10px;
+     background-color: #94AF9F;
+    color: black;
+}
+#clear{
+    clear: both;
+    background-color: #2E4F4F;
+    color: white;
+    text-align: center;
+}
